@@ -1,0 +1,23 @@
+{   
+    "help": "```\nDid someone ask for help? The prefix of the bot is ~.\n\nHere is a list of commands:\n\nBasic:\n ping, uptime, avatar, 8ball, help\nMemes:\n boi, eargasm, oof, what, stop, slide, dasgay.\nKpop:\n chuuwave, hyunjinheart, hyunjinshock, thanosoppa.\n\nThis bot is made by Veeru#6884 and is currently in testing mode!\n```",
+    "memes": {
+        "boi": "http://i0.kym-cdn.com/photos/images/facebook/001/183/604/ee9.png",
+        "eargasm": "https://memegenerator.net/img/images/400x/17096462.jpg",
+        "nibwhat": "https://pbs.twimg.com/media/CZdgdgVUEAAo4Rj.jpg:large",
+        "timetostop": "http://i0.kym-cdn.com/photos/images/original/001/060/689/927.jpg",
+        "oof": "https://cdn.discordapp.com/attachments/397079220829945866/397442504858927114/oof.png",
+        "slide": "https://cdn.discordapp.com/attachments/397079220829945866/397442519392321537/slide.png",
+        "gayshit": "https://cdn.discordapp.com/attachments/365140809005268995/394726786249916416/unknown.png"    
+    },
+    "kpop": {
+        "chuuwave": "https://cdn.discordapp.com/attachments/258637107055034369/435805338659454976/f2dad2047f0315c8af2e6c370586bc1d.gif",
+        "thanos_sarang": "https://cdn.discordapp.com/attachments/229824551695941642/458503317417361408/DcXzETTWkAc0UAj.png",
+        "hyunjinshock": "https://cdn.discordapp.com/attachments/229824551695941642/433007977688072212/DVwsCTpWkAARQGD.jpg",
+        "hyunjinheart": "https://cdn.discordapp.com/attachments/229824551695941642/458503136273891338/IMG_20180411_181408.jpg",
+        "oliviadab": "https://gfycat.com/HomelyHospitableAmericanavocet"
+    },
+    "gei": {
+        "gayhitler": "https://cdn.discordapp.com/attachments/461519267985358848/461519992383602698/unknown.png",
+        "gayputin": "https://cdn.discordapp.com/attachments/461519267985358848/461520160050774016/unknown.png"
+    }
+}

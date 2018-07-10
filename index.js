@@ -44,6 +44,7 @@ client.on("ready", async () => {
                 })
             }
         }
+        
     })
     
     try {
@@ -52,6 +53,7 @@ client.on("ready", async () => {
     } catch(e) {
         console.log(e.stack);
     }
+    
     //console.log(client.commands);
 });
 
